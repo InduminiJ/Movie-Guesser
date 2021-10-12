@@ -1,6 +1,3 @@
-#Indumini Jayakody
-#101109229
-
 #Finding Nemo: Family comedy, Animated, main character animal, main character fish
 #KungFu Panda: Family Comedy, animated, main character animal, main character likes kungfu
 #Secret life of pets: family comedy, animated, main character animal
